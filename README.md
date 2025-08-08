@@ -23,4 +23,4 @@ npm install
 npm run dev
 ```
 ---
-Built with ❤️ by Reginold 🚀
+Built with ❤️ by Reginold 
