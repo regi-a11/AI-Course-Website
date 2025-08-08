@@ -14,21 +14,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Gen AI Full Stack Fintech Development",
+  description: "A revolutionary training program designed to transform developers into 10x engineers by mastering AI-assisted fintech application development.",
+  keywords: ["Gen AI", "Fintech", "Next.js", "AI development", "KK"],
+  authors: [{ name: "KK" }],
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "Gen AI Full Stack Fintech Development",
+    description: "Master AI-assisted development for cutting-edge fintech solutions.",
+    url: "https://gen-ai-fintech-course.com", // Replace with your final deployed URL
+    siteName: "GenAI",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: "Gen AI Full Stack Fintech Development",
+    description: "Master AI-assisted development for cutting-edge fintech solutions.",
+  },
+  icons: {
+    icon: "/j_logo.svg", // This is the new line to ensure your icon is updated
   },
 };
 
